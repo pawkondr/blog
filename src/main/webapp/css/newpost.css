@@ -1,0 +1,11 @@
+body {
+  padding-top: 70px;
+}
+
+.newpost input[id="postTitle"]{
+    margin-bottom: 10px;
+}
+.newpost textarea[id="postContent"]{
+    height: 250px;
+    margin-bottom: 10px;
+}
